@@ -14,9 +14,10 @@ WebSocket is used as a signaling server, while WebRTC handles peer-to-peer audio
 ## 📁 Project Structure
 
 webrtc-project/
-├── frontend/ # ReactJS frontend
-│ ├── src/
-│ ├── public/
+
+├── frontend
+│ ├── src
+│ ├── public
 │ └── package.json
 │
 ├── backend/ # WebRTC + WebSocket backend
